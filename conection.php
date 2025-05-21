@@ -1,9 +1,9 @@
 <?php
 
-$host = "localhost";
-$user = "root";
-$password = "";
-$db = "crud";
+$host = "your host";
+$user = "your user";
+$password = "your password";
+$db = "your dataBase";
 
 
 try{
