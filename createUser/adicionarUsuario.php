@@ -1,8 +1,3 @@
-<?php
-
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +7,7 @@
 </head>
 <body>
 
-    <form action="novousuario.php" method="post">
+    <form action="createUser.php" method="post">
 
     <input type="hidden" name="id" placeholder="id">
     <input type="text" name="nome" placeholder="Nome">
